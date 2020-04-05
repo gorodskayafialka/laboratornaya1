@@ -1,0 +1,50 @@
+﻿  Lab1_map_final.cpp
+C:\Users\Prog\source\repos\Lab1_map_final\Map.h(2,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+C:\Users\Prog\source\repos\Lab1_map_final\Map.h(3,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+C:\Users\Prog\source\repos\Lab1_map_final\Map.h(56,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+C:\Users\Prog\source\repos\Lab1_map_final\Lab1_map_final.cpp(9,19): warning C4305: аргумент: усечение из "double" в "value_type"
+C:\Users\Prog\source\repos\Lab1_map_final\Lab1_map_final.cpp(9,19): warning C4305:         with
+C:\Users\Prog\source\repos\Lab1_map_final\Lab1_map_final.cpp(9,19): warning C4305:         [
+C:\Users\Prog\source\repos\Lab1_map_final\Lab1_map_final.cpp(9,19): warning C4305:             value_type=float
+C:\Users\Prog\source\repos\Lab1_map_final\Lab1_map_final.cpp(9,19): warning C4305:         ]
+C:\Users\Prog\source\repos\Lab1_map_final\Map.inl(302,29): warning C4101: err: неиспользованная локальная переменная
+C:\Users\Prog\source\repos\Lab1_map_final\Map.inl(288): message : во время компиляции функции-члена класс шаблон "void map<int,float>::insert(key_type,value_type)"
+C:\Users\Prog\source\repos\Lab1_map_final\Map.inl(288): message :         with
+C:\Users\Prog\source\repos\Lab1_map_final\Map.inl(288): message :         [
+C:\Users\Prog\source\repos\Lab1_map_final\Map.inl(288): message :             key_type=int,
+C:\Users\Prog\source\repos\Lab1_map_final\Map.inl(288): message :             value_type=float
+C:\Users\Prog\source\repos\Lab1_map_final\Map.inl(288): message :         ]
+C:\Users\Prog\source\repos\Lab1_map_final\Lab1_map_final.cpp(9): message : выполняется компиляция ссылки на экземпляр шаблон функции "void map<int,float>::insert(key_type,value_type)"
+C:\Users\Prog\source\repos\Lab1_map_final\Lab1_map_final.cpp(9): message :         with
+C:\Users\Prog\source\repos\Lab1_map_final\Lab1_map_final.cpp(9): message :         [
+C:\Users\Prog\source\repos\Lab1_map_final\Lab1_map_final.cpp(9): message :             key_type=int,
+C:\Users\Prog\source\repos\Lab1_map_final\Lab1_map_final.cpp(9): message :             value_type=float
+C:\Users\Prog\source\repos\Lab1_map_final\Lab1_map_final.cpp(9): message :         ]
+C:\Users\Prog\source\repos\Lab1_map_final\Lab1_map_final.cpp(8): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "map<int,float>"
+C:\Users\Prog\source\repos\Lab1_map_final\Map.inl(339,28): warning C4101: err: неиспользованная локальная переменная
+C:\Users\Prog\source\repos\Lab1_map_final\Map.inl(332): message : во время компиляции функции-члена класс шаблон "void map<int,float>::remove(key_type)"
+C:\Users\Prog\source\repos\Lab1_map_final\Map.inl(332): message :         with
+C:\Users\Prog\source\repos\Lab1_map_final\Map.inl(332): message :         [
+C:\Users\Prog\source\repos\Lab1_map_final\Map.inl(332): message :             key_type=int
+C:\Users\Prog\source\repos\Lab1_map_final\Map.inl(332): message :         ]
+C:\Users\Prog\source\repos\Lab1_map_final\Lab1_map_final.cpp(17): message : выполняется компиляция ссылки на экземпляр шаблон функции "void map<int,float>::remove(key_type)"
+C:\Users\Prog\source\repos\Lab1_map_final\Lab1_map_final.cpp(17): message :         with
+C:\Users\Prog\source\repos\Lab1_map_final\Lab1_map_final.cpp(17): message :         [
+C:\Users\Prog\source\repos\Lab1_map_final\Lab1_map_final.cpp(17): message :             key_type=int
+C:\Users\Prog\source\repos\Lab1_map_final\Lab1_map_final.cpp(17): message :         ]
+C:\Users\Prog\source\repos\Lab1_map_final\Map.inl(352,28): warning C4101: err: неиспользованная локальная переменная
+C:\Users\Prog\source\repos\Lab1_map_final\Map.inl(460,28): warning C4101: err: неиспользованная локальная переменная
+C:\Users\Prog\source\repos\Lab1_map_final\Map.inl(453): message : во время компиляции функции-члена класс шаблон "void map<int,float>::get_keys(void)"
+C:\Users\Prog\source\repos\Lab1_map_final\Lab1_map_final.cpp(18): message : выполняется компиляция ссылки на экземпляр шаблон функции "void map<int,float>::get_keys(void)"
+C:\Users\Prog\source\repos\Lab1_map_final\Map.inl(484,28): warning C4101: err: неиспользованная локальная переменная
+C:\Users\Prog\source\repos\Lab1_map_final\Map.inl(477): message : во время компиляции функции-члена класс шаблон "void map<int,float>::get_values(void)"
+C:\Users\Prog\source\repos\Lab1_map_final\Lab1_map_final.cpp(19): message : выполняется компиляция ссылки на экземпляр шаблон функции "void map<int,float>::get_values(void)"
+C:\Users\Prog\source\repos\Lab1_map_final\Map.inl(509,28): warning C4101: err: неиспользованная локальная переменная
+C:\Users\Prog\source\repos\Lab1_map_final\Map.inl(502): message : во время компиляции функции-члена класс шаблон "void map<int,float>::print(void)"
+C:\Users\Prog\source\repos\Lab1_map_final\Lab1_map_final.cpp(20): message : выполняется компиляция ссылки на экземпляр шаблон функции "void map<int,float>::print(void)"
+C:\Users\Prog\source\repos\Lab1_map_final\Map.inl(435,28): warning C4101: err: неиспользованная локальная переменная
+C:\Users\Prog\source\repos\Lab1_map_final\Map.inl(428): message : во время компиляции функции-члена класс шаблон "void map<int,float>::clear(void)"
+C:\Users\Prog\source\repos\Lab1_map_final\Map.inl(283): message : выполняется компиляция ссылки на экземпляр шаблон функции "void map<int,float>::clear(void)"
+C:\Users\Prog\source\repos\Lab1_map_final\Map.inl(274): message : во время компиляции функции-члена класс шаблон "map<int,float>::map(void)"
+C:\Users\Prog\source\repos\Lab1_map_final\Lab1_map_final.cpp(8): message : выполняется компиляция ссылки на экземпляр шаблон функции "map<int,float>::map(void)"
+  Lab1_map_final.vcxproj -> C:\Users\Prog\source\repos\Lab1_map_final\Debug\Lab1_map_final.exe
